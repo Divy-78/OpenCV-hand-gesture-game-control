@@ -37,8 +37,6 @@ hand-gesture-subway-surfers/
 
 ## Demo
 
-(Add your screenshot or GIF here)
-
 Example:
 
 ```md
